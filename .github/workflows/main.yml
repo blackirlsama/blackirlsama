@@ -14,29 +14,28 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # 生成浅色版贪吃蛇（包含私有仓库）
+      # 生成浅色版贪吃蛇（用完整版snk@v3，支持days参数）
       - name: generate light snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3  # 关键：换成完整版，支持days参数
         with:
           github_user_name: blackirlsama
           days: 365  # 只统计近365天，和GitHub贡献图对齐
           outputs: dist/github-contribution-grid-snake.svg
         env:
-          # 关键：用自定义的SNAKE_TOKEN，而非默认的GITHUB_TOKEN
           GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
 
-      # 生成深色版贪吃蛇（包含私有仓库）
+      # 生成深色版贪吃蛇（用完整版snk@v3，支持palette参数）
       - name: generate dark snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3  # 关键：换成完整版，支持palette参数
         with:
           github_user_name: blackirlsama
           days: 365
-          palette: github-dark
+          palette: github-dark  # 深色调色板，svg-only@v3不支持这个参数
           outputs: dist/github-contribution-grid-snake-dark.svg
         env:
           GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
 
-      # 推送文件到output分支
+      # 推送文件到output分支（用默认GITHUB_TOKEN即可，权限足够）
       - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
@@ -44,5 +43,5 @@ jobs:
           build_dir: dist
           keep_history: false
         env:
-          # 推送分支用默认的GITHUB_TOKEN即可（权限足够）
-          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
+          # 关键：改回默认GITHUB_TOKEN，SNAKE_TOKEN仅用于读取私有仓库
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

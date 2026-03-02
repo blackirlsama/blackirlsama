@@ -1,19 +1,12 @@
 name: generate animation
 
 on:
-  # run automatically every 24 hours
   schedule:
     - cron: "0 */24 * * *"
-
-  # allows to manually run the job at any time
   workflow_dispatch:
-
-  # run on every push on the master branch
   push:
     branches:
-      - master
-
-
+      - main
 
 jobs:
   generate:
@@ -21,24 +14,35 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
+      # 生成浅色版贪吃蛇（包含私有仓库）
+      - name: generate light snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_user_name: blackirlsama
+          days: 365  # 只统计近365天，和GitHub贡献图对齐
+          outputs: dist/github-contribution-grid-snake.svg
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # 关键：用自定义的SNAKE_TOKEN，而非默认的GITHUB_TOKEN
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
 
+      # 生成深色版贪吃蛇（包含私有仓库）
+      - name: generate dark snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: blackirlsama
+          days: 365
+          palette: github-dark
+          outputs: dist/github-contribution-grid-snake-dark.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
 
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
+      # 推送文件到output分支
+      - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # 推送分支用默认的GITHUB_TOKEN即可（权限足够）
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}

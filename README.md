@@ -47,7 +47,9 @@
 
 
 
+## 🎨 可爱版开发工具
 <div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/IntelliJ%20IDEA/IntelliJIDEA-Thick.png" width="200" alt="IntelliJ IDEA" />
-  <img src="https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/Docker/Docker-Thick.png" width="200" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/Aikoyori/ProgrammingVTuberLogos/main/VSCode/VSCode-Thick.png" width="200" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/Aikoyori/ProgrammingVTuberLogos/main/IntelliJ%20IDEA/IntelliJIDEA-Thick.png" width="200" alt="IntelliJ IDEA" />
+  <img src="https://cdn.jsdelivr.net/gh/Aikoyori/ProgrammingVTuberLogos/main/Docker/Docker-Thick.png" width="200" alt="Docker" />
 </div>

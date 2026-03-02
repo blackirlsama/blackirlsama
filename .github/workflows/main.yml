@@ -44,4 +44,4 @@ jobs:
           keep_history: false
         env:
           # 关键：改回默认GITHUB_TOKEN，SNAKE_TOKEN仅用于读取私有仓库
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}

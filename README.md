@@ -48,13 +48,24 @@
 🎯 求职意向：2028届校招 · Java后端开发（计划往 AI Agent 方向拓展）
 
 🤝 欢迎各位朋友/前辈交流学习心得和技术实践！
-<div style="margin: 10px 0;">
-  <a href="mailto:799243133@qq.com">
-    <img src="https://img.shields.io/badge/Email_Me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://leetcode.cn/u/cheng-zi-re/">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
+<!-- 外层 div：控制整体的上下间距 -->
+<div style="margin: 10px 0">  
+  <!-- 第一个链接：邮箱跳转 -->
+  <a href="mailto:799243133@qq.com">  
+    <!-- 链接里的图片：邮箱徽章 -->
+    <img 
+      src="https://img.shields.io/badge/799243133%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Email"
+    >  
+  </a>  
+  <!-- 第二个链接：力扣跳转 -->
+  <a href="https://leetcode.cn/u/cheng-zi-re/">  
+    <!-- 链接里的图片：力扣徽章 -->
+    <img 
+      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=white" 
+      alt="LeetCode"
+    >  
+  </a>  
 </div>
 
 <!-- 可爱工具图标：放在像素小人下方右侧 -->

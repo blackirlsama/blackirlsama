@@ -32,14 +32,22 @@
 [![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=white)](https://github.com/ultralytics/ultralytics)
 [![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)](https://docs.ros.org/en/humble/index.html)
 [![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
+
+## 📚 个人信息
 天津大学 软件工程 (2028届)
 
-意向2028届毕业直接就业，目前专注后端开发
+学习日记在小红书：花绿青（49607377662）
+
+意向2028届毕业直接就业，目前专注后端开发，可能会往ai agent方向靠
 
 欢迎各位朋友/前辈一起交流学习心得和技术实践！
 
 [![Email Me](https://img.shields.io/badge/Email_Me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:799243133@qq.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.cn/u/你的LeetCode用户名/)
-[![WeChat](https://img.shields.io/badge/WeChat_Me-%2307C160?style=for-the-badge&logo=wechat&logoColor=white)](https://your-wechat-qrcode-link)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.cn/u/cheng-zi-re/)
 
 
+
+<div align="center" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/IntelliJ%20IDEA/IntelliJIDEA-Thick.png" width="200" alt="IntelliJ IDEA" />
+  <img src="https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/Docker/Docker-Thick.png" width="200" alt="Docker" />
+</div>

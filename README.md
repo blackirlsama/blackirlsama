@@ -38,20 +38,16 @@
 [![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)](https://docs.ros.org/en/humble/index.html)
 [![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
 
-<!-- 可爱工具图标：放在像素小人下方右侧 -->
-<div align="right" style="margin-right: 20px; margin-top: 10px;">
-  <img src="https://github.com/blackirlsama/blackirlsama/raw/main/VSCode.png" width="130" alt="VS Code" />
-  <img src="https://github.com/blackirlsama/blackirlsama/raw/main/IntellijLogo.png" width="130" alt="IntelliJ IDEA" />
-  <img src="https://github.com/blackirlsama/blackirlsama/raw/main/DockerLogo.png" width="130" alt="Docker" />
-</div>
+
 
 ## ABOUT ME
-- 🏫 天津大学 软件工程 (2028届)
-- 📖 学习日记：小红书「花绿青」（49607377662）
-- 🎯 求职意向：2028届校招 · Java后端开发（计划往 AI Agent 方向拓展）
-- 🤝 欢迎各位朋友/前辈交流学习心得和技术实践！
+🏫 天津大学 软件工程 (2028届)
 
+📖 学习日记：小红书「花绿青」（49607377662）
 
+🎯 求职意向：2028届校招 · Java后端开发（计划往 AI Agent 方向拓展）
+
+🤝 欢迎各位朋友/前辈交流学习心得和技术实践！
 <div style="margin: 10px 0;">
   <a href="mailto:799243133@qq.com">
     <img src="https://img.shields.io/badge/Email_Me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -60,3 +56,13 @@
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </div>
+
+<!-- 可爱工具图标：放在像素小人下方右侧 -->
+<div align="left" style="margin-right: 20px; margin-top: 10px;">
+  <img src="https://github.com/blackirlsama/blackirlsama/raw/main/VSCode.png" width="130" alt="VS Code" />
+  <img src="https://github.com/blackirlsama/blackirlsama/raw/main/IntellijLogo.png" width="130" alt="IntelliJ IDEA" />
+  <img src="https://github.com/blackirlsama/blackirlsama/raw/main/DockerLogo.png" width="130" alt="Docker" />
+</div>
+
+
+

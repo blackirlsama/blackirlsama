@@ -1,19 +1,51 @@
-# 🌸Hi ~ I'm 花绿青 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+Hanaroku.+Agent/Backend+Engineer" alt="Hi"/>
+  <p>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
+    <strong>I'm currently focused on AI Agent.</strong>
+  </p>
+  <p>
+    <code>🐼 Born 2006.09.08.</code>
+    <code>📍 Now based in BeiJing.</code>
+  </p>
+</div>
+
+## ABOUT ME
+### 🏫 Tianjin University | Software Engineering | Class 2028
 
 <!-- 右侧像素小人 -->
 <img align="right" src="https://count.getloli.com/get/@blackirlsama?theme=moebooru&scale=1.1" alt="blackirlsama" width="400"/>
 
+### 🌱 Internship Experience
+- `ByteDance` - `TikTok Inbox Backend` - `2026.05 – 2026.08`
+- `KuaiShou` - `Commercial Performance‑Marketing Agent` - `2026.09 – today`
 
 
+### 🔧 Competition Experience
+- PeiYang RoboMaster Vision Team Member
+
+<!-- 三个工具图标，放在徽章下方 -->
+<!-- 三个工具图标：每个 img 单独 align="right"，触发浮动，文字环绕 -->
+<!-- 顺序反过来写：Docker 最右，IntelliJ 中间，VSCode 最左 -->
+<img align="right" src="https://github.com/blackirlsama/blackirlsama/raw/main/DockerLogo.png" width="130" alt="Docker" style="margin-left: 8px; margin-top: 10px;" />
+<img align="right" src="https://github.com/blackirlsama/blackirlsama/raw/main/IntellijLogo.png" width="130" alt="IntelliJ IDEA" style="margin-left: 8px; margin-top: 10px;" />
+<img align="right" src="https://github.com/blackirlsama/blackirlsama/raw/main/VSCode.png" width="130" alt="VS Code" style="margin-top: 10px;" />
+
+### 💻 Connect With Me
+- 📕 小红书 : 花绿青
+- 📺 BiliBili : 花绿青ovo
+- 📫 Email : 799243133@qq.com
+
+
+
+
+<br><br>
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring-cloud&logoColor=white)](https://spring.io/projects/spring-cloud)
-[![MyBatis-Plus](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white)](https://baomidou.com/)
-[![Netty](https://img.shields.io/badge/Netty-009933?style=flat-square&logo=netty&logoColor=white)](https://netty.io/)
 [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://python.langchain.com/)
-
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)](https://www.elastic.co/)
@@ -33,19 +65,7 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
 
 
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
-[![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=white)](https://github.com/ultralytics/ultralytics)
-[![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)](https://docs.ros.org/en/humble/index.html)
-[![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
 
-
-
-## ABOUT ME
-🏫 天津大学 软件工程 2028届
-
-🎯 字节TikTok后端 -> 快手商业化Agent 
-
-🤝 勇敢点，别给自己设限！
 <!-- 外层 div：控制整体的上下间距 -->
 <div style="margin: 10px 0">  
   <!-- 第一个链接：邮箱跳转 -->
@@ -66,12 +86,7 @@
   </a>  
 </div>
 
-<!-- 可爱工具图标：放在像素小人下方右侧 -->
-<div align="left" style="margin-right: 20px; margin-top: 10px;">
-  <img src="https://github.com/blackirlsama/blackirlsama/raw/main/VSCode.png" width="130" alt="VS Code" />
-  <img src="https://github.com/blackirlsama/blackirlsama/raw/main/IntellijLogo.png" width="130" alt="IntelliJ IDEA" />
-  <img src="https://github.com/blackirlsama/blackirlsama/raw/main/DockerLogo.png" width="130" alt="Docker" />
-</div>
+
 
 
 <div align="center" style="margin: 20px 0; width: 100%;">

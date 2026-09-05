@@ -6,18 +6,18 @@
   </p>
   <p>
     <code>🐼 Born 2006.09.08.</code>
-    <code>📍 Now based in BeiJing.</code>
+    <code>📍 Now Base in BeiJing.</code>
   </p>
 </div>
 
 ## ABOUT ME
-### 🏫 Tianjin University | Software Engineering | Class 2028
+### 🏫 Tianjin University | Software Engineering | Class Of 2028
 
 <!-- 右侧像素小人 -->
 <img align="right" src="https://count.getloli.com/get/@blackirlsama?theme=moebooru&scale=1.1" alt="blackirlsama" width="400"/>
 
 ### 🌱 Internship Experience
-- `ByteDance` : `TikTok Social Inbox Backend` - `2026.05 – 2026.08`
+- `ByteDance` : `TikTok Social Inbox Backend` - `2026.05 – 08`
 - `KuaiShou` : `Commercial Performance‑Marketing Agent` - `2026.09 – today`
 
 

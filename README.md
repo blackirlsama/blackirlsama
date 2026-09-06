@@ -21,7 +21,7 @@
 - `KuaiShou` : `Commercial Performance‑Marketing Agent` - `2026.09 – today`
 
 
-### 🔧 Competition Experience
+### 🤖 Competition Experience
 - `RoboMaster` : `PeiYang Robot` - `Vision Team`
 
 <!-- 三个工具图标，放在徽章下方 -->
@@ -32,9 +32,9 @@
 <img align="right" src="https://github.com/blackirlsama/blackirlsama/raw/main/VSCode.png" width="130" alt="VS Code" style="margin-top: 10px;" />
 
 ### 💻 Connect With Me
-- 📕 小红书 : 花绿青
-- 📺 Bili Bili : 花绿青ovo
-- 📫 E-mail : 799243133@qq.com
+- 📕 RedBook : `花绿青`
+- 📺 BiliBili : `花绿青ovo`
+- 📫 E-mail : `799243133@qq.com`
 
 
 

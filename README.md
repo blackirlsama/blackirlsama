@@ -22,7 +22,7 @@
 
 
 ### 🔧 Competition Experience
-- PeiYang RoboMaster Vision Team Member
+- `RoboMaster` : `PeiYang Robot` - `Vision Team`
 
 <!-- 三个工具图标，放在徽章下方 -->
 <!-- 三个工具图标：每个 img 单独 align="right"，触发浮动，文字环绕 -->

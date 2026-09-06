@@ -33,8 +33,8 @@
 
 ### 💻 Connect With Me
 - 📕 小红书 : 花绿青
-- 📺 BiliBili : 花绿青ovo
-- 📫 Email : 799243133@qq.com
+- 📺 Bili Bili : 花绿青ovo
+- 📫 E-mail : 799243133@qq.com
 
 
 

@@ -18,8 +18,8 @@
 <img align="right" src="https://count.getloli.com/get/@blackirlsama?theme=moebooru&scale=1.1" alt="blackirlsama" width="400"/>
 
 ### 🌱 Internship Experience
-- `ByteDance` : `TikTok Social Inbox Backend` - `2026.05–08`
-- `KuaiShou` : `Commercial Performance‑Marketing Agent` - `2026.09–today`
+- `ByteDance` : `TikTok Social Inbox Backend`
+- `KuaiShou` : `Commercial Performance‑Marketing Agent`
 
 
 ### 🤖 Competition Experience

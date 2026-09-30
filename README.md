@@ -6,7 +6,7 @@
   </p>
   <p>
     <code>🐼 Born 2006.09.08.</code>
-    <code>📍 Now Base in BeiJing.</code>
+    <code>📍 Now Base in GuangZhou.</code>
   </p>
 </div>
 
@@ -20,6 +20,7 @@
 ### 🌱 Internship Experience
 - `ByteDance` : `TikTok Social Inbox Backend`
 - `KuaiShou` : `Commercial Performance‑Marketing Agent`
+- `Tencent` : `WXG WeCom Agent`
 
 
 ### 🤖 Competition Experience

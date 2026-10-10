@@ -5,7 +5,7 @@
     <strong>I'm currently focused on AI Agent.</strong>
   </p>
   <p>
-    <code>🐼 Born 2006.09.08.</code>
+    <code>🐼 Born 2006.09</code>
     <code>📍 Now Base in GuangZhou.</code>
   </p>
 </div>

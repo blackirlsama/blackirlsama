@@ -20,7 +20,7 @@
 ### 🌱 Internship Experience
 - `ByteDance` : `TikTok Social Inbox Backend`
 - `KuaiShou` : `Commercial Performance‑Marketing Agent`
-- `Tencent` : `WXG WeCom Agent`
+- `Tencent` : `Weixin Group WeCom Agent`
 
 
 ### 🤖 Competition Experience

@@ -34,7 +34,7 @@
 <img align="right" src="https://github.com/blackirlsama/blackirlsama/raw/main/VSCode.png" width="130" alt="VS Code" style="margin-top: 10px;" />
 
 ### 💻 Connect With Me
-- 📕 RedBook : `花绿青`
+- 📕 RedNote : `花绿青`
 - 📺 BiliBili : `花绿青ovo`
 - 📫 E-mail : `799243133@qq.com`
 

@@ -22,6 +22,9 @@
 - `KuaiShou` : `Commercial Performance‑Marketing Agent`
 - `Tencent` : `Weixin Group WeCom Agent`
 
+### 开源贡献
+
+- [WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli) 
 
 ### 🤖 Competition Experience
 - `RoboMaster` : `PeiYang Robot · Vision Team`

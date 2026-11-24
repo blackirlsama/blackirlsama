@@ -24,7 +24,7 @@
 
 ### 🛠️ Open Source Contributions
 
-- wecom-cli ->  [ **[wecom-cli](https://github.com/WecomTeam/wecom-cli)** ] 
+- `wecom-cli` ->  [ **[wecom-cli](https://github.com/WecomTeam/wecom-cli)** ] 
 
 ### 🤖 Competition Experience
 - `RoboMaster` : `PeiYang Robot · Vision Team`
